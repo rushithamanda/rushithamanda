@@ -9,7 +9,7 @@ I'm a passionate web developer with a love for creating innovative solutions. I 
 - 👯 I’m looking to collaborate on **MachineLearning projects**
 - 🤔 I’m looking for help with **MachineLearning and  data analytics projects**
 - 💬 Ask me about -**frontend and backend**
-- 📫 How to reach me : ----------
+- 📫 How to reach me : rushithamanad@gmail.com
 - ⚡ Fun fact: - I recently started learning to code and built my first "Hello, World!" program!
   
 ## Skills
